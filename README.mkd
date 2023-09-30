@@ -1,0 +1,51 @@
+# Mission Statement
+
+We will aim to create a visual representation of program execution in C to assist the learning process of programming.
+
+# Rough product
+
+A software that visualizes data in memory being manipulated and initiated in relation to connected memory segments.
+
+For example, an array would contain elements that are connected to eachother in memory. Thus, when manipulating entries of the array, we want to show the change occuring
+relative to the other entries in the array and other relevant adress been accessed.
+
+# Introduction
+
+Using our [goal file](./Goal), we aim to create a pathway to achieve our mission statement.
+
+What knowledge is necessary to complete this project?
+Can we construct a step by step process to the finished product?
+
+# Areas of Exploration
+
+
+## Relating Works
+
+
+### Key words
+Execution, **Visualization**, Interface, GUI, **Debugging**, Learning, **Education**, Novice, Data visualization, Memory management, Functional Programming,
+Multi-level Visualization, Parsing, **Code evaluation**, HCI, Low-level programming
+
+### Crosscode
+
+### Literature Review Guide
+http://www.prisma-statement.org/?AspxAutoDetectCookieSupport=1
+
+### C Code Execution and Visualization
+https://aaltodoc.aalto.fi/bitstream/handle/123456789/123204/master_Rantanen_Veli-Matti_1970.pdf?sequence=1&isAllowed=y
+
+# Throwaway prototypes
+
+# Schedule
+
+One day a week, three hours, 40 min work, 20 min break.
+
+Saturday
+
+Good starting times:
+
+11 - Early
+
+15 - Optimal
+
+17 - Late
